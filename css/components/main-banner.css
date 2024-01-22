@@ -15,7 +15,7 @@
     padding-left: 91px; 
 }
 
-.main-banner .box {
+.main-banner .main-box {
     margin-bottom: 40px;
 }
 
@@ -23,8 +23,4 @@
     display: flex;
     justify-content: space-around;
     
-}
-
-.main-banner .main-title {
-    margin-bottom: 21px;
 }
