@@ -1,0 +1,21 @@
+.main-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+
+}
+
+.main-footer .logo {
+    height: 45px;
+    width: 45px;
+}
+
+.main-footer .logo.-size {
+    height: 60px;
+    width: 60px;
+}
+
+.main-footer a:nth-child(odd) {
+    margin-right: 40px;
+}
